@@ -78,4 +78,4 @@ See [STRUCTURE.md](STRUCTURE.md) for a deeper architecture overview.
 
 ## License and credits
 
-Developed by **DEVROCK**. This project uses the custom terms in [LICENSE.md](LICENSE.md); retain the required author credit when redistributing or modifying the project.
+Developed by **DEVROCK** and co-developed by **Stellar Ace**. This project uses the custom terms in [LICENSE.md](LICENSE.md); retain the required author credit when redistributing or modifying the project.

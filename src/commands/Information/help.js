@@ -123,7 +123,7 @@ function categoryView(category, commands, prefix, groups, requester, disabled = 
     .addSeparatorComponents(separator())
     .addTextDisplayComponents(text(listing || "No public commands are available in this category."))
     .addSeparatorComponents(separator())
-    .addTextDisplayComponents(text(`Use \`/${commands[0]?.name || "help"}\` or \`${prefix}help <command>\` for details.\n-# Requested by ${requester.username} · Developed by DEVROCK`))
+    .addTextDisplayComponents(text(`Use \`/${commands[0]?.name || "help"}\` or \`${prefix}help <command>\` for details.\n-# Requested by ${requester.username} · Developed by DEVROCK and co-developed by Stellar Ace`))
     .addActionRowComponents(menuRow(groups, disabled));
 }
 

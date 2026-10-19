@@ -28,7 +28,7 @@ const config = {
     support: process.env.SUPPORT_URL || "",
     invite: process.env.INVITE_URL || "",
     Shafed_Billa: "Shafed Billi",
-    power: "Developed by DEVROCK",
+    power: "Developed by DEVROCK and co-developed by Stellar Ace",
     vanity: process.env.VANITY_URL || "",
     guild: process.env.COMMUNITY_GUILD_ID || "",
   },
